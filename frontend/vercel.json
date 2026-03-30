@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://talk2learn-2.onrender.com/api/:path*"
+    }
+  ]
+}
