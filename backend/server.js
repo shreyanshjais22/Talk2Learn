@@ -16,7 +16,7 @@ const __dirname = path.resolve();
 
 app.use(
   cors({
-    origin: ["https://talk2learn-hvs7.vercel.app", "http://localhost:5173"],
+    origin: ["https://talk2learn-hvs7.vercel.app", "http://localhost:5173", 'https://learn-together-beta.vercel.app'],
     credentials: true, 
   })
 );
