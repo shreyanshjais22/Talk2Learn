@@ -34,7 +34,7 @@ app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/chat", chatRoutes);
 app.get('/', (req, res) => {
-    res.send('Welcome to the Talk2Learn!');
+    res.send('Welcome to the LearnTogether!');
     }
 );
 

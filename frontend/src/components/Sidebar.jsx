@@ -81,7 +81,7 @@ const Sidebar = () => {
           </div>
           <div className="flex flex-col">
             <span className="text-xl font-bold bg-gradient-to-r text-bold from-primary to-secondary bg-clip-text text-transparent tracking-wider font-mono">
-              Talk2Learn
+              LearnTogether
             </span>
             <span className="text-xs text-base-content/50 font-medium">Language Exchange</span>
           </div>

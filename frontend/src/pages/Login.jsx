@@ -35,7 +35,7 @@ const Login = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-purple-600 via-pink-500 to-rose-500 bg-clip-text text-transparent tracking-tight">
-                  Talk2Learn
+                  LearnTogether
                 </span>
                 <div className="flex items-center gap-1 mt-1">
                   <Sparkles className="w-3 h-3 text-purple-400" />

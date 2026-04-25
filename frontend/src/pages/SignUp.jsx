@@ -56,7 +56,7 @@ const SignUpPage = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-purple-600 via-pink-500 to-rose-500 bg-clip-text text-transparent tracking-tight">
-                  Talk2Learn
+                  LearnTogether
                 </span>
                 <div className="flex items-center gap-1 mt-1">
                   <Sparkles className="w-3 h-3 text-purple-400" />
@@ -88,7 +88,7 @@ const SignUpPage = () => {
                   Create Account
                 </h1>
                 <p className="text-gray-600 leading-relaxed">
-                  Join Talk2Learn and start your language learning adventure!
+                  Join LearnTogether and start your language learning adventure!
                 </p>
               </div>
 

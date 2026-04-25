@@ -52,7 +52,7 @@ const Navbar = () => {
         <div className="flex items-center gap-2">
           <Link to="/" className="flex items-center gap-2 text-primary font-bold">
             <ShipWheelIcon className="w-5 h-5" />
-            <span className="hidden sm:inline">Talk2Learn</span>
+            <span className="hidden sm:inline">LearnTogether</span>
           </Link>
         </div>
 

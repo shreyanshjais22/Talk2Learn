@@ -190,7 +190,7 @@ export async function updateProfile(req, res) {
             api_secret: process.env.CLOUDINARY_API_SECRET,
           });
           const uploadResult = await cloudinary.uploader.upload(profilePic, {
-            folder: "talk2learn_avatars",
+            folder: "learntogether_avatars",
             transformation: [{ width: 300, height: 300, crop: "fill", gravity: "face" }],
           });
           updateData.profilePic = uploadResult.secure_url;
